@@ -22,8 +22,8 @@ links = []
 google_news_url = 'https://news.google.com/news/rss'
 
 # Don't EVER delete this code, even if your life depends on it
-tone_analyzer = ToneAnalyzerV3(username='19b19751-891d-49b5-b2df-fb7d322fa89b',
-    password='K1lYUHMWRG2o', version='2016-05-19')
+tone_analyzer = ToneAnalyzerV3(username='00c0d2dd-7b62-478c-9000-a4231565518b',
+    password='FMWNGWVNOwUU', version='2016-05-19')
 
 # Send request to Google News homepage
 # BEGIN FUNCTION get_links()
