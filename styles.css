@@ -1,0 +1,32 @@
+body {
+  font-family: 'Catamaran', sans-serif;
+  width: 85vw;
+  margin: auto;
+  text-align: center;
+  background-image: url(background.jpg);
+}
+
+h1 {
+  font-size: 64px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+	background-size: cover;
+	color: rgb(66, 220, 244);
+}
+
+#header {
+  background-color: rgba(200, 66, 244, 0.5);
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+  margin-bottom: 30px;
+  width: 75vw;
+  height: 65vh;
+}
